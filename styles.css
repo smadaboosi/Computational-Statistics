@@ -1,0 +1,61 @@
+
+.gdbar img {
+  width: 758px !important;
+  height: 146px !important;
+  margin: 8px 8px;
+}
+
+.gdbar {
+  width: 780px !important;
+  height: 158px !important;
+  top:50px !important;
+  right:0px !important;
+  background: rgba(47,79,79,.25) !important;
+}
+
+.title-slide{
+  background-image: url(titlebg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgb(238,238,238);
+}
+
+slides > slide {
+  background-color: rgb(255,255,255);
+}
+
+slides > slide.title-slide hgroup h1 {
+      font-weight: bold;
+      font-size: 50pt;
+      color: rgb(47,79,79);
+}
+
+slides > slide.title-slide hgroup p {
+      font-weight: bold;
+      font-size: 28pt;
+      color: rgb(47,79,79);
+}
+
+.prettyprint{
+  white-space: pre !important;
+  overflow-x: scroll !important;
+  overflow-y: scroll !important;
+  word-break: keep-all !important;
+  word-wrap: initial !important;
+  height: 250px;
+  width: 600px;
+}
+
+.pre {
+  white-space: pre !important;
+  overflow-x: scroll !important;
+  overflow-y: scroll !important;
+  word-break: keep-all !important;
+  word-wrap: initial !important;
+  height: 450px;
+  width: 600px;
+}
+
+
+
+
